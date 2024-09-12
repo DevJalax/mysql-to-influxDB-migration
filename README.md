@@ -1,5 +1,3 @@
-#Trivia
-
 Influx-db best for analysis based on timestamps
 
 to do :
